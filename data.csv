@@ -28,7 +28,7 @@ id,state,abbr,labor_force,depression,poverty,internet,divorced,smoker
 27,Montana,MT,61.6,19.6,14.6,74.9,12.7,16.6
 28,Nebraska,NE,67,17.1,11.2,76.2,10.7,15
 29,Nevada,NV,60,17.6,13.2,81.8,14.2,15.4
-30,New Hampshire,NH,64.6,21,8.16,,12.2,14.6
+30,New Hampshire,NH,64.6,21,8.16,83.1,12.2,14.6
 31,New Jersey,NJ,63.2,14.5,9.7,80.2,8.5,13.8
 32,New Mexico,NM,56.4,20.6,18.7,72.6,12.3,15.8
 33,New York,NY,61.5,16.5,14.1,77.5,8.7,13
