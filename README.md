@@ -6,3 +6,5 @@ Three demographics were selected: individuals in the labor force, in poverty, an
 D3 was used to read the CSV file and create the dynamic scatterplots. A correlation equal to or greater than +0.50 OR equal to or less than -0.50 between the demographic and behavioral risk was considered for analysis. 
 
 The html page can be found at [https://victoria-lam.github.io/Behavior_Risks/](https://victoria-lam.github.io/Behavior_Risks/).
+
+![d3 html](behavior.png)
